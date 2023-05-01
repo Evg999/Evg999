@@ -10,7 +10,7 @@ Seo/Direct
 
 *   🌍  Живу в Москве
 *   ✉️  Со мной можно связаться (mailto:mikhitaryan.e@mail.ru), 
-    <a href="https://telegram.me/MikhitaryanE"https://telegram.me/MikhitaryanE ><img height="32" width="32"                   src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" /> </a> 
+    <a href="https://telegram.me/MikhitaryanE" ><img height="36" width="36"                   src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" /> </a> 
 
 *   🧠  Изучаю HTML,CSS,PHP,JavaScript
 
